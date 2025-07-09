@@ -4,7 +4,7 @@
 - ⚡ Fun Fact: I love pickleball and tennis
 ## 🛠️ Currently Learning & Building Skills In:
 - 💻 **Programming Languages:**  
-  C++ | Java | Python | Assembly | SQL 
+  C++ | Java | Python | SQL 
 - 🔍 **Areas of Interest:**  
   Systems Programming • AI/ML • Mobile App Dev • Data Visualization 
 ## 💡 Goals for 2025:
